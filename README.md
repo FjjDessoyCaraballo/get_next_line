@@ -5,8 +5,6 @@ The goal of this project is to the function get_next_line which reads line by li
 ## Usage:
 **MacOs Linux only**
 - `git clone https://github.com/FjjDessoyCaraballo/get_next_line`
-- include get_next_line_bonus.h in your project.
-- make sure to include the sources when you compile
 - use the `int get_next_line(int fd)` function
 
 ## Result:
