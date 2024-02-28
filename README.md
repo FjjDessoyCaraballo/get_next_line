@@ -1,4 +1,4 @@
-# 42cursus01-Get_next_line
+# Get_next_line
 ## Description:
 The goal of this project is to the function get_next_line which reads line by line from a file descriptor.
 
